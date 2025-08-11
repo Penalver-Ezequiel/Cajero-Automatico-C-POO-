@@ -1,7 +1,6 @@
 # Cajero-Automatico-C++-POO-
-================================================================================
+
 Proyecto Escolar: Simulador de Cajero Automático en C++
-================================================================================
 
 📌 Descripción
 --------------
@@ -63,4 +62,4 @@ Proyecto escolar realizado en el IRSO para la materia Estructura de datos.
 
 Versión: 1.0
 Fecha: 10/11/2023
-================================================================================
+
