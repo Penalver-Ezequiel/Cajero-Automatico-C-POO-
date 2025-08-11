@@ -55,7 +55,7 @@ Menú del cajero:
 3. Ingresar la opción deseada según el menú.
 4. En "Acceder", usar las credenciales del cliente de prueba.
 
-👨‍💻 Autor
+👨‍💻 Autor: Ezequiel Peñalver
 ----------
 Proyecto escolar realizado en el IRSO para la materia Estructura de datos. 
 [Estructura de Datos / Programación en C++].
